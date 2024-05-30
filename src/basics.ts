@@ -78,6 +78,6 @@ function spelling(word: String) {
   return result
 }
 
-// console.log(spelling("eagerly"))
+console.log(spelling("eagerly"))
 // console.log(spelling("bee"))
 // console.log(spelling("happy"))
